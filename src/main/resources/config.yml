@@ -15,7 +15,7 @@ vault:
 
 message:
   required-item: "&c아이템을 링크하기 위해선, 손에 아이템을 들어주세요."
-  # %count% = 최대 링크 갯수
-  too-many-link: "&c링크 메시지는 최대 %count%개만 보낼 수 있습니다."
+  # %max% = 최대 링크 갯수
+  too-many-link: "&c링크 메시지는 최대 %max%개만 보낼 수 있습니다."
   # %money% = 필요한 돈
   required-money: "&c%money%원이 부족합니다."
