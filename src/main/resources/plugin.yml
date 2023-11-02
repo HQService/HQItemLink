@@ -1,0 +1,13 @@
+name: HQItemLink
+main: kr.cosine.itemlink.HQItemLink
+api-version: 1.18
+version: 1.0.0
+author: Cosine_A
+depend:
+  - HQFramework
+softdepend:
+  - Vault
+
+commands:
+  링크관리:
+    permission: op

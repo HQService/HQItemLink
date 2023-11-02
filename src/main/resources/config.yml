@@ -1,0 +1,19 @@
+# 링크 설정
+link:
+  # 최대 링크 갯수
+  max: 1
+
+  # 링크 포맷
+  # %display% = 아이템 이름
+  format: "&f[%display%&f]"
+
+vault:
+  # Vault를 사용할건지
+  enabled: false
+  # 비용
+  cost: 500
+
+message:
+  required-item: "&c아이템을 링크하기 위해선, 손에 아이템을 들어주세요."
+  too-many-link: "&c링크 메시지는 최대 한개만 보낼 수 있습니다."
+  required-money: "&c%money%원이 부족합니다."
