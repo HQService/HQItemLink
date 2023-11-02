@@ -45,7 +45,7 @@ class ItemLinkListener(
         if (!regex.containsMatchIn(message)) return
         event.isCancelled = true
 
-        val itemStack = player.inventory.itemInMainHand
+        val itemStack = player.inventory.itemInMainHand.clone()
         if (itemStack.type.isAir) {
             player.sendMessage(settingConfig.requiredItemMessage)
             return
