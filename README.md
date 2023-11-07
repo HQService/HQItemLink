@@ -5,7 +5,7 @@
 * 플러그인 다운로드는 [릴리즈](https://github.com/HQService/HQItemLink/releases)에서 가능합니다.
 
 ## 디스코드
-* 모든 문의, 질문, 개발 요청은 [디스코드](https://discord.gg/hqservice)에서 해주시길 바랍니다.
+* 모든 문의, 질문, 개발 요청은 [디스코드](https://discord.gg/hUkaca9ZQu)에서 해주시길 바랍니다.
 
 ## 필수 플러그인
 *  [HQFramework](https://github.com/HQService/HQFramework)
